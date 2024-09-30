@@ -1,2 +1,3 @@
-#docker_k8s
-#check vision.lan 
+docker_k8s
+
+check vision.lan 
