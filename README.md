@@ -1,3 +1,3 @@
 docker_k8s
 
-check vision.lan 
+check vision.lan host
